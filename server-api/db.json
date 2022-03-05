@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": "335d84d6-05e2-4d83-9ddb-e5f0242fb0d1",
+      "name": "sameer",
+      "email": "sameer@GMAIL.COM"
+    },
+    {
+      "id": "32e54f4d-ecb1-4ae9-8f21-f0a74bd685f4",
+      "name": "sameer",
+      "email": "CCSDCC@safasv"
+    },
+    {
+      "id": "6a62ee17-c843-4a6a-b243-9db64572405b",
+      "name": "XAC",
+      "email": "XACACA@GMAIL.COM"
+    },
+    {
+      "id": "a0bdece9-da68-4e3c-8096-1bc16c297136",
+      "name": "SCCC",
+      "email": "sameer@GMAIL.COM"
+    },
+    {
+      "id": "78684740-3094-4518-b471-d5060018b5b4",
+      "name": "sameer",
+      "email": "sameer@GMAIL.COM"
+    },
+    {
+      "id": "0ea25d1f-f59a-401f-b25c-003994f90abc",
+      "name": "sameer arun",
+      "email": "preetha@mongrov.com"
+    },
+    {
+      "id": "7f51d8be-b466-4054-bcfd-bec7152083ea",
+      "name": "test",
+      "email": "test@gmail.com"
+    }
+  ]
+}
